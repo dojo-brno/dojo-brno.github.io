@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## About us
 
-You can use the [editor on GitHub](https://github.com/dojo-brno/dojo-brno.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We are an **open community** of computer programming enthusiasts, including
+professional programmers and students.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We believe that learning computer programming is a continuous process that
+involves **deliberate practice** and gradually pushing ourselves into mastering
+new skills.
 
-### Markdown
+There are also important social skills involved, like **team work** and
+**communication**.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+In a coding dojo meeting, we work as a self-organized group to learn and share
+knowledge by following certain principles and practices. For example:
 
-```markdown
-Syntax highlighted code block
+- collective problem solving
+- Test-Driven Development
+- pair programming
+- baby steps
+- code refactoring
+- and others...
 
-# Header 1
-## Header 2
-### Header 3
+We also keep everybody in the loop, making the environment inclusive and
+welcoming for people with all sorts of background. It is a collaborative
+community, not a competition.
 
-- Bulleted
-- List
+All that happens while we solve computer programming exercises (called "katas")
+in a programming language of our choice.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/dojo-brno/dojo-brno.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Join us to improve your coding skills, meet new people, learn more about
+automated testing and TDD and to share your knowledge with the community.
